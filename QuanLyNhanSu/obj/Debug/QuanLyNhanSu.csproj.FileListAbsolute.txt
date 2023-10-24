@@ -1,0 +1,128 @@
+G:\HOC TAP\DO AN 3\CODE\QuanLyNhanSu\QuanLyNhanSu\bin\QuanLyNhanSu.dll.config
+G:\HOC TAP\DO AN 3\CODE\QuanLyNhanSu\QuanLyNhanSu\bin\QuanLyNhanSu.dll
+G:\HOC TAP\DO AN 3\CODE\QuanLyNhanSu\QuanLyNhanSu\bin\QuanLyNhanSu.pdb
+G:\HOC TAP\DO AN 3\CODE\QuanLyNhanSu\QuanLyNhanSu\bin\Antlr3.Runtime.dll
+G:\HOC TAP\DO AN 3\CODE\QuanLyNhanSu\QuanLyNhanSu\bin\BitPantry.StringWriters.dll
+G:\HOC TAP\DO AN 3\CODE\QuanLyNhanSu\QuanLyNhanSu\bin\ClosedXML.dll
+G:\HOC TAP\DO AN 3\CODE\QuanLyNhanSu\QuanLyNhanSu\bin\DocumentFormat.OpenXml.dll
+G:\HOC TAP\DO AN 3\CODE\QuanLyNhanSu\QuanLyNhanSu\bin\EntityFramework.dll
+G:\HOC TAP\DO AN 3\CODE\QuanLyNhanSu\QuanLyNhanSu\bin\EntityFramework.SqlServer.dll
+G:\HOC TAP\DO AN 3\CODE\QuanLyNhanSu\QuanLyNhanSu\bin\Excel.dll
+G:\HOC TAP\DO AN 3\CODE\QuanLyNhanSu\QuanLyNhanSu\bin\ICSharpCode.SharpZipLib.dll
+G:\HOC TAP\DO AN 3\CODE\QuanLyNhanSu\QuanLyNhanSu\bin\Microsoft.AspNet.Identity.Core.dll
+G:\HOC TAP\DO AN 3\CODE\QuanLyNhanSu\QuanLyNhanSu\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+G:\HOC TAP\DO AN 3\CODE\QuanLyNhanSu\QuanLyNhanSu\bin\Microsoft.AspNet.Identity.Owin.dll
+G:\HOC TAP\DO AN 3\CODE\QuanLyNhanSu\QuanLyNhanSu\bin\Microsoft.Owin.dll
+G:\HOC TAP\DO AN 3\CODE\QuanLyNhanSu\QuanLyNhanSu\bin\Microsoft.Owin.Host.SystemWeb.dll
+G:\HOC TAP\DO AN 3\CODE\QuanLyNhanSu\QuanLyNhanSu\bin\Microsoft.Owin.Security.Cookies.dll
+G:\HOC TAP\DO AN 3\CODE\QuanLyNhanSu\QuanLyNhanSu\bin\Microsoft.Owin.Security.dll
+G:\HOC TAP\DO AN 3\CODE\QuanLyNhanSu\QuanLyNhanSu\bin\Microsoft.Owin.Security.Facebook.dll
+G:\HOC TAP\DO AN 3\CODE\QuanLyNhanSu\QuanLyNhanSu\bin\Microsoft.Owin.Security.Google.dll
+G:\HOC TAP\DO AN 3\CODE\QuanLyNhanSu\QuanLyNhanSu\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+G:\HOC TAP\DO AN 3\CODE\QuanLyNhanSu\QuanLyNhanSu\bin\Microsoft.Owin.Security.OAuth.dll
+G:\HOC TAP\DO AN 3\CODE\QuanLyNhanSu\QuanLyNhanSu\bin\Microsoft.Owin.Security.Twitter.dll
+G:\HOC TAP\DO AN 3\CODE\QuanLyNhanSu\QuanLyNhanSu\bin\Microsoft.Web.Infrastructure.dll
+G:\HOC TAP\DO AN 3\CODE\QuanLyNhanSu\QuanLyNhanSu\bin\Newtonsoft.Json.dll
+G:\HOC TAP\DO AN 3\CODE\QuanLyNhanSu\QuanLyNhanSu\bin\Owin.dll
+G:\HOC TAP\DO AN 3\CODE\QuanLyNhanSu\QuanLyNhanSu\bin\System.Web.Helpers.dll
+G:\HOC TAP\DO AN 3\CODE\QuanLyNhanSu\QuanLyNhanSu\bin\System.Web.Mvc.dll
+G:\HOC TAP\DO AN 3\CODE\QuanLyNhanSu\QuanLyNhanSu\bin\System.Web.Optimization.dll
+G:\HOC TAP\DO AN 3\CODE\QuanLyNhanSu\QuanLyNhanSu\bin\System.Web.Razor.dll
+G:\HOC TAP\DO AN 3\CODE\QuanLyNhanSu\QuanLyNhanSu\bin\System.Web.WebPages.Deployment.dll
+G:\HOC TAP\DO AN 3\CODE\QuanLyNhanSu\QuanLyNhanSu\bin\System.Web.WebPages.dll
+G:\HOC TAP\DO AN 3\CODE\QuanLyNhanSu\QuanLyNhanSu\bin\System.Web.WebPages.Razor.dll
+G:\HOC TAP\DO AN 3\CODE\QuanLyNhanSu\QuanLyNhanSu\bin\WebGrease.dll
+G:\HOC TAP\DO AN 3\CODE\QuanLyNhanSu\QuanLyNhanSu\bin\ClosedXML.pdb
+G:\HOC TAP\DO AN 3\CODE\QuanLyNhanSu\QuanLyNhanSu\bin\ClosedXML.xml
+G:\HOC TAP\DO AN 3\CODE\QuanLyNhanSu\QuanLyNhanSu\bin\Excel.pdb
+G:\HOC TAP\DO AN 3\CODE\QuanLyNhanSu\QuanLyNhanSu\bin\System.Web.Helpers.xml
+G:\HOC TAP\DO AN 3\CODE\QuanLyNhanSu\QuanLyNhanSu\bin\System.Web.Mvc.xml
+G:\HOC TAP\DO AN 3\CODE\QuanLyNhanSu\QuanLyNhanSu\bin\System.Web.Optimization.xml
+G:\HOC TAP\DO AN 3\CODE\QuanLyNhanSu\QuanLyNhanSu\bin\System.Web.Razor.xml
+G:\HOC TAP\DO AN 3\CODE\QuanLyNhanSu\QuanLyNhanSu\bin\System.Web.WebPages.xml
+G:\HOC TAP\DO AN 3\CODE\QuanLyNhanSu\QuanLyNhanSu\bin\System.Web.WebPages.Deployment.xml
+G:\HOC TAP\DO AN 3\CODE\QuanLyNhanSu\QuanLyNhanSu\bin\System.Web.WebPages.Razor.xml
+G:\HOC TAP\DO AN 3\CODE\QuanLyNhanSu\QuanLyNhanSu\bin\Newtonsoft.Json.xml
+G:\HOC TAP\DO AN 3\CODE\QuanLyNhanSu\QuanLyNhanSu\bin\Antlr3.Runtime.pdb
+G:\HOC TAP\DO AN 3\CODE\QuanLyNhanSu\QuanLyNhanSu\bin\EntityFramework.xml
+G:\HOC TAP\DO AN 3\CODE\QuanLyNhanSu\QuanLyNhanSu\bin\EntityFramework.SqlServer.xml
+G:\HOC TAP\DO AN 3\CODE\QuanLyNhanSu\QuanLyNhanSu\bin\Microsoft.AspNet.Identity.Core.xml
+G:\HOC TAP\DO AN 3\CODE\QuanLyNhanSu\QuanLyNhanSu\bin\Microsoft.AspNet.Identity.Owin.xml
+G:\HOC TAP\DO AN 3\CODE\QuanLyNhanSu\QuanLyNhanSu\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+G:\HOC TAP\DO AN 3\CODE\QuanLyNhanSu\QuanLyNhanSu\bin\Microsoft.Owin.xml
+G:\HOC TAP\DO AN 3\CODE\QuanLyNhanSu\QuanLyNhanSu\bin\Microsoft.Owin.Host.SystemWeb.xml
+G:\HOC TAP\DO AN 3\CODE\QuanLyNhanSu\QuanLyNhanSu\bin\Microsoft.Owin.Security.xml
+G:\HOC TAP\DO AN 3\CODE\QuanLyNhanSu\QuanLyNhanSu\bin\Microsoft.Owin.Security.Facebook.xml
+G:\HOC TAP\DO AN 3\CODE\QuanLyNhanSu\QuanLyNhanSu\bin\Microsoft.Owin.Security.Cookies.xml
+G:\HOC TAP\DO AN 3\CODE\QuanLyNhanSu\QuanLyNhanSu\bin\Microsoft.Owin.Security.OAuth.xml
+G:\HOC TAP\DO AN 3\CODE\QuanLyNhanSu\QuanLyNhanSu\bin\Microsoft.Owin.Security.Google.xml
+G:\HOC TAP\DO AN 3\CODE\QuanLyNhanSu\QuanLyNhanSu\bin\Microsoft.Owin.Security.Twitter.xml
+G:\HOC TAP\DO AN 3\CODE\QuanLyNhanSu\QuanLyNhanSu\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+G:\HOC TAP\DO AN 3\CODE\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.csprojResolveAssemblyReference.cache
+G:\HOC TAP\DO AN 3\CODE\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.dll
+G:\HOC TAP\DO AN 3\CODE\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.pdb
+D:\code-aspnet-quan-ly-nhan-su\QuanLyNhanSu\bin\QuanLyNhanSu.dll.config
+D:\code-aspnet-quan-ly-nhan-su\QuanLyNhanSu\bin\QuanLyNhanSu.dll
+D:\code-aspnet-quan-ly-nhan-su\QuanLyNhanSu\bin\QuanLyNhanSu.pdb
+D:\code-aspnet-quan-ly-nhan-su\QuanLyNhanSu\bin\Antlr3.Runtime.dll
+D:\code-aspnet-quan-ly-nhan-su\QuanLyNhanSu\bin\BitPantry.StringWriters.dll
+D:\code-aspnet-quan-ly-nhan-su\QuanLyNhanSu\bin\ClosedXML.dll
+D:\code-aspnet-quan-ly-nhan-su\QuanLyNhanSu\bin\DocumentFormat.OpenXml.dll
+D:\code-aspnet-quan-ly-nhan-su\QuanLyNhanSu\bin\EntityFramework.dll
+D:\code-aspnet-quan-ly-nhan-su\QuanLyNhanSu\bin\EntityFramework.SqlServer.dll
+D:\code-aspnet-quan-ly-nhan-su\QuanLyNhanSu\bin\Excel.dll
+D:\code-aspnet-quan-ly-nhan-su\QuanLyNhanSu\bin\ICSharpCode.SharpZipLib.dll
+D:\code-aspnet-quan-ly-nhan-su\QuanLyNhanSu\bin\Microsoft.AspNet.Identity.Core.dll
+D:\code-aspnet-quan-ly-nhan-su\QuanLyNhanSu\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\code-aspnet-quan-ly-nhan-su\QuanLyNhanSu\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\code-aspnet-quan-ly-nhan-su\QuanLyNhanSu\bin\Microsoft.Owin.dll
+D:\code-aspnet-quan-ly-nhan-su\QuanLyNhanSu\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\code-aspnet-quan-ly-nhan-su\QuanLyNhanSu\bin\Microsoft.Owin.Security.Cookies.dll
+D:\code-aspnet-quan-ly-nhan-su\QuanLyNhanSu\bin\Microsoft.Owin.Security.dll
+D:\code-aspnet-quan-ly-nhan-su\QuanLyNhanSu\bin\Microsoft.Owin.Security.Facebook.dll
+D:\code-aspnet-quan-ly-nhan-su\QuanLyNhanSu\bin\Microsoft.Owin.Security.Google.dll
+D:\code-aspnet-quan-ly-nhan-su\QuanLyNhanSu\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\code-aspnet-quan-ly-nhan-su\QuanLyNhanSu\bin\Microsoft.Owin.Security.OAuth.dll
+D:\code-aspnet-quan-ly-nhan-su\QuanLyNhanSu\bin\Microsoft.Owin.Security.Twitter.dll
+D:\code-aspnet-quan-ly-nhan-su\QuanLyNhanSu\bin\Microsoft.Web.Infrastructure.dll
+D:\code-aspnet-quan-ly-nhan-su\QuanLyNhanSu\bin\Newtonsoft.Json.dll
+D:\code-aspnet-quan-ly-nhan-su\QuanLyNhanSu\bin\Owin.dll
+D:\code-aspnet-quan-ly-nhan-su\QuanLyNhanSu\bin\System.Web.Helpers.dll
+D:\code-aspnet-quan-ly-nhan-su\QuanLyNhanSu\bin\System.Web.Mvc.dll
+D:\code-aspnet-quan-ly-nhan-su\QuanLyNhanSu\bin\System.Web.Optimization.dll
+D:\code-aspnet-quan-ly-nhan-su\QuanLyNhanSu\bin\System.Web.Razor.dll
+D:\code-aspnet-quan-ly-nhan-su\QuanLyNhanSu\bin\System.Web.WebPages.Deployment.dll
+D:\code-aspnet-quan-ly-nhan-su\QuanLyNhanSu\bin\System.Web.WebPages.dll
+D:\code-aspnet-quan-ly-nhan-su\QuanLyNhanSu\bin\System.Web.WebPages.Razor.dll
+D:\code-aspnet-quan-ly-nhan-su\QuanLyNhanSu\bin\WebGrease.dll
+D:\code-aspnet-quan-ly-nhan-su\QuanLyNhanSu\bin\ClosedXML.pdb
+D:\code-aspnet-quan-ly-nhan-su\QuanLyNhanSu\bin\ClosedXML.xml
+D:\code-aspnet-quan-ly-nhan-su\QuanLyNhanSu\bin\Excel.pdb
+D:\code-aspnet-quan-ly-nhan-su\QuanLyNhanSu\bin\System.Web.Helpers.xml
+D:\code-aspnet-quan-ly-nhan-su\QuanLyNhanSu\bin\System.Web.Mvc.xml
+D:\code-aspnet-quan-ly-nhan-su\QuanLyNhanSu\bin\System.Web.Optimization.xml
+D:\code-aspnet-quan-ly-nhan-su\QuanLyNhanSu\bin\System.Web.Razor.xml
+D:\code-aspnet-quan-ly-nhan-su\QuanLyNhanSu\bin\System.Web.WebPages.xml
+D:\code-aspnet-quan-ly-nhan-su\QuanLyNhanSu\bin\System.Web.WebPages.Deployment.xml
+D:\code-aspnet-quan-ly-nhan-su\QuanLyNhanSu\bin\System.Web.WebPages.Razor.xml
+D:\code-aspnet-quan-ly-nhan-su\QuanLyNhanSu\bin\Newtonsoft.Json.xml
+D:\code-aspnet-quan-ly-nhan-su\QuanLyNhanSu\bin\Antlr3.Runtime.pdb
+D:\code-aspnet-quan-ly-nhan-su\QuanLyNhanSu\bin\EntityFramework.xml
+D:\code-aspnet-quan-ly-nhan-su\QuanLyNhanSu\bin\EntityFramework.SqlServer.xml
+D:\code-aspnet-quan-ly-nhan-su\QuanLyNhanSu\bin\Microsoft.AspNet.Identity.Core.xml
+D:\code-aspnet-quan-ly-nhan-su\QuanLyNhanSu\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\code-aspnet-quan-ly-nhan-su\QuanLyNhanSu\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\code-aspnet-quan-ly-nhan-su\QuanLyNhanSu\bin\Microsoft.Owin.xml
+D:\code-aspnet-quan-ly-nhan-su\QuanLyNhanSu\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\code-aspnet-quan-ly-nhan-su\QuanLyNhanSu\bin\Microsoft.Owin.Security.xml
+D:\code-aspnet-quan-ly-nhan-su\QuanLyNhanSu\bin\Microsoft.Owin.Security.Facebook.xml
+D:\code-aspnet-quan-ly-nhan-su\QuanLyNhanSu\bin\Microsoft.Owin.Security.Cookies.xml
+D:\code-aspnet-quan-ly-nhan-su\QuanLyNhanSu\bin\Microsoft.Owin.Security.OAuth.xml
+D:\code-aspnet-quan-ly-nhan-su\QuanLyNhanSu\bin\Microsoft.Owin.Security.Google.xml
+D:\code-aspnet-quan-ly-nhan-su\QuanLyNhanSu\bin\Microsoft.Owin.Security.Twitter.xml
+D:\code-aspnet-quan-ly-nhan-su\QuanLyNhanSu\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\code-aspnet-quan-ly-nhan-su\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.csproj.AssemblyReference.cache
+D:\code-aspnet-quan-ly-nhan-su\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.csproj.CoreCompileInputs.cache
+D:\code-aspnet-quan-ly-nhan-su\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.csproj.CopyComplete
+D:\code-aspnet-quan-ly-nhan-su\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.dll
+D:\code-aspnet-quan-ly-nhan-su\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.pdb
